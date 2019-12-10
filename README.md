@@ -2,7 +2,7 @@
 Python Instagram crwaler using selenium and chorme for webdriver
 
 How to use?
-1. download chorme driver > https://chromedriver.chromium.org/downloads
+1. download chrome driver > https://chromedriver.chromium.org/downloads
 2. install all requirements 
   [command line] : pip install -r requirements.txt
 3. change 'DriverPath' in ChromeCrawler>settings.json to your directory
